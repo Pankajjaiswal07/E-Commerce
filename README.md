@@ -4,11 +4,15 @@ An end-to-end full-stack e-commerce website built with modern web technologies. 
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Demo  
+🌍 **Client (User)**: [https://ecommerce-client-navy-seven.vercel.app](https://ecommerce-client-navy-seven.vercel.app)
 
-🌍 **Client (User)**: [eCommerce-client-navy.vercel.app](https://eCommerce-client-navy.vercel.app)
+> ⚠️ **Note:** The live link has been updated.  
+> Previous link: `https://ecommerce-client-navy.vercel.app`  
+> New link: `https://ecommerce-client-navy-seven.vercel.app`
 
-🗂️ **GitHub**: [DevS-2004/E-Commerce-Website](https://github.com/DevS-2004/E-Commerce-Website)
+## 🗂️ GitHub  
+[DevS-2004/E-Commerce-Website](https://github.com/DevS-2004/E-Commerce-Website)
 
 ---
 
